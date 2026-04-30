@@ -1,0 +1,13 @@
+scene,class,count,total_area_m2,total_length_m,density_per_km2,aoi_area_km2
+Almaty_10,bare_soil,209,15605.4,0.0,1457.48,0.1434
+Almaty_10,building_candidate,112,0.0,0.0,781.04,0.1434
+Almaty_10,built_up,141,4821.4,0.0,983.28,0.1434
+Almaty_10,road,187,0.0,2986.3,1304.06,0.1434
+Almaty_10,vegetation,217,14087.3,0.0,1513.27,0.1434
+Almaty_10,water,56,3707.7,0.0,390.52,0.1434
+Astana_7,bare_soil,199,40167.5,0.0,651.59,0.3054
+Astana_7,building_candidate,135,0.0,0.0,442.04,0.3054
+Astana_7,built_up,193,7743.5,0.0,631.95,0.3054
+Astana_7,road,224,0.0,4101.1,733.45,0.3054
+Astana_7,vegetation,234,54643.2,0.0,766.2,0.3054
+Astana_7,water,25,2178.4,0.0,81.86,0.3054

@@ -1,0 +1,18 @@
+
+=== Processing ../Almaty/Almaty_10.tif ===
+tiles[Almaty_10]:   0%|          | 0/12 [00:00<?, ?it/s]tiles[Almaty_10]:   8%|▊         | 1/12 [00:38<06:58, 38.04s/it]tiles[Almaty_10]:  17%|█▋        | 2/12 [01:17<06:27, 38.76s/it]tiles[Almaty_10]:  25%|██▌       | 3/12 [01:56<05:51, 39.06s/it]tiles[Almaty_10]:  33%|███▎      | 4/12 [02:32<05:01, 37.67s/it]tiles[Almaty_10]:  42%|████▏     | 5/12 [03:11<04:27, 38.25s/it]tiles[Almaty_10]:  50%|█████     | 6/12 [03:52<03:54, 39.02s/it]tiles[Almaty_10]:  58%|█████▊    | 7/12 [04:31<03:16, 39.31s/it]tiles[Almaty_10]:  67%|██████▋   | 8/12 [05:08<02:33, 38.31s/it]tiles[Almaty_10]:  75%|███████▌  | 9/12 [05:21<01:31, 30.59s/it]tiles[Almaty_10]:  83%|████████▎ | 10/12 [05:34<00:50, 25.18s/it]tiles[Almaty_10]:  92%|█████████▏| 11/12 [05:47<00:21, 21.48s/it]tiles[Almaty_10]: 100%|██████████| 12/12 [05:47<00:00, 28.99s/it]
+2026-04-30 13:21:42,959 INFO pyogrio._io: Created 922 records
+2026-04-30 13:21:43,015 INFO pyogrio._io: Created 623 records
+2026-04-30 13:21:43,034 INFO pyogrio._io: Created 187 records
+2026-04-30 13:21:43,039 INFO pyogrio._io: Created 112 records
+  wrote: {'geojson': PosixPath('outputs/Almaty_10.geojson'), 'gpkg': PosixPath('outputs/Almaty_10.gpkg')}
+
+=== Processing ../Astana/Astana_7.tif ===
+tiles[Astana_7]:   0%|          | 0/28 [00:00<?, ?it/s]tiles[Astana_7]:   4%|▎         | 1/28 [00:52<23:40, 52.62s/it]tiles[Astana_7]:   7%|▋         | 2/28 [01:43<22:25, 51.76s/it]tiles[Astana_7]:  11%|█         | 3/28 [02:35<21:38, 51.92s/it]tiles[Astana_7]:  14%|█▍        | 4/28 [03:27<20:47, 51.99s/it]tiles[Astana_7]:  18%|█▊        | 5/28 [04:20<19:56, 52.03s/it]tiles[Astana_7]:  21%|██▏       | 6/28 [05:12<19:09, 52.24s/it]tiles[Astana_7]:  29%|██▊       | 8/28 [06:04<13:06, 39.33s/it]tiles[Astana_7]:  32%|███▏      | 9/28 [06:57<13:30, 42.67s/it]tiles[Astana_7]:  36%|███▌      | 10/28 [07:48<13:30, 45.05s/it]tiles[Astana_7]:  39%|███▉      | 11/28 [08:39<13:14, 46.75s/it]tiles[Astana_7]:  43%|████▎     | 12/28 [09:31<12:53, 48.36s/it]tiles[Astana_7]:  46%|████▋     | 13/28 [10:24<12:25, 49.67s/it]tiles[Astana_7]:  50%|█████     | 14/28 [10:49<09:53, 42.38s/it]tiles[Astana_7]:  54%|█████▎    | 15/28 [11:41<09:46, 45.15s/it]tiles[Astana_7]:  57%|█████▋    | 16/28 [12:33<09:25, 47.17s/it]tiles[Astana_7]:  61%|██████    | 17/28 [13:25<08:55, 48.66s/it]tiles[Astana_7]:  64%|██████▍   | 18/28 [14:17<08:16, 49.62s/it]tiles[Astana_7]:  68%|██████▊   | 19/28 [15:10<07:35, 50.57s/it]tiles[Astana_7]:  71%|███████▏  | 20/28 [16:02<06:48, 51.08s/it]tiles[Astana_7]:  75%|███████▌  | 21/28 [16:27<05:02, 43.25s/it]tiles[Astana_7]:  79%|███████▊  | 22/28 [16:52<03:47, 37.92s/it]tiles[Astana_7]:  82%|████████▏ | 23/28 [17:19<02:52, 34.57s/it]tiles[Astana_7]:  86%|████████▌ | 24/28 [17:45<02:07, 31.91s/it]tiles[Astana_7]:  89%|████████▉ | 25/28 [18:11<01:30, 30.11s/it]tiles[Astana_7]:  93%|█████████▎| 26/28 [18:36<00:57, 28.80s/it]tiles[Astana_7]: 100%|██████████| 28/28 [18:36<00:00, 39.89s/it]
+2026-04-30 13:41:22,779 INFO pyogrio._io: Created 1,010 records
+2026-04-30 13:41:22,854 INFO pyogrio._io: Created 651 records
+2026-04-30 13:41:22,869 INFO pyogrio._io: Created 224 records
+2026-04-30 13:41:22,876 INFO pyogrio._io: Created 135 records
+  wrote: {'geojson': PosixPath('outputs/Astana_7.geojson'), 'gpkg': PosixPath('outputs/Astana_7.gpkg')}
+
+Wrote summary: outputs/summary.csv
